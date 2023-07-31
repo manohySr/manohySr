@@ -1,7 +1,6 @@
-### Hello World I'm Manohy Saotra RAJAONAH👋
-I'm a passionate  developer [Java JS Python Php] from Madagascar and I really enjoy learning framework and programming language.
+### Hello World I'm Manohy Saotra RAJAONAH 👋 AND I ❤️ to program 
 
-### 🌱 I’m currently learning ...
+### 🌱🌱🌱  I’m currently learning 🌱🌱🌱
 
 
 
