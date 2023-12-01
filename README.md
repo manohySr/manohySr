@@ -3,9 +3,7 @@
   <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&center=true&color=%3d348b&lines=And+I+Love+To+PROGRAM💻'/>
 </p>
 
-
-- 🌱 I’m currently learning
-
+- <div>🌱 I’m currently learning Go 🚀 and NextJs ✨ by building things 🛠️</div>
 - <p>📫 How to reach me:  <a href="https://www.linkedin.com/in/manohy-saotra-rajaonah-b57ab7223/">My LinkedIn</a></p>
 <div align="center">
 
