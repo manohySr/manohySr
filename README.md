@@ -3,8 +3,9 @@
   <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&center=true&color=%3d348b&lines=And+I+Love+To+PROGRAM💻'/>
 </p>
 
-- <div>🌱 I’m currently learning Go 🚀 and NextJs ✨ by building things 🛠️</div>
+- <div>🌱 I’m currently learning Go 🚀 by building things 🛠️</div>
 - <p>📫 How to reach me:  <a href="https://www.linkedin.com/in/manohy-saotra-rajaonah-b57ab7223/">My LinkedIn</a></p>
+- <p> Some of fun projects I've build: <a href="https://github.com/manohySr/Manohy-Fun-Project-link">Check here</a></p>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manohySr&theme=dracula&hide=css,scss,less,html,objective-c,ejs,ruby&layout=compact&hide_progress=true)
