@@ -1,6 +1,6 @@
 <h1 align="center">Hello World  👋, I'm Manohy Saotra RAJAONAH</h1>
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&center=true&color=%3d348b&lines=And+I+Love+To+PROGRAM💻'/>
+   <img src='https://readme-typing-svg.herokuapp.com?font=Product+Sans&center=true&color=%23ff69b4&size=20&lines=🌟+Coding+for+Fun+and+Exploration+💻;🛠️+Building+Useless+Yet+Wonderful+Creations+🚀'>
 </p>
 
 - <div>🌱 I’m currently learning Go 🚀 by building things 🛠️</div>
