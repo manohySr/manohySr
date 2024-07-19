@@ -10,11 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manohySr&theme=dracula&hide=css,scss,less,html,objective-c,ejs,ruby&layout=compact&hide_progress=true)
 <br><br><br>
-[![Myskills](https://skillicons.dev/icons?i=html,css,sass,js,java,python,kotlin)](https://skillicons.dev)
-[![Myskills](https://skillicons.dev/icons?i=nodejs,express,react)](https://skillicons.dev)
-[![Myskills](https://skillicons.dev/icons?i=django,flask)](https://skillicons.dev)
-[![Myskills](https://skillicons.dev/icons?i=mongo,mysql,postgres)](https://skillicons.dev)
-[![Myskills](https://skillicons.dev/icons?i=vscode,git,github,postman)](https://skillicons.dev)
 
 <p>All collaborations are available</p>
 </div>
