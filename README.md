@@ -1,28 +1,4 @@
-<h1 align="center">Welcome 👋</h2>
-
-## I'm Manohy
-
-I'm a **Software Engineer** passionate about building scalable, user-friendly applications.  
-
-### 🔧 Focused on
-- Web Development  
-- System Design  
-- User-Centric Product Development  
-
-### 🌱 Exploring
-- Software Architecture  
-- Linux & DevOps  
-- Product Engineering  
-- Machine Learning  
-
-### 🤝 Looking to Collaborate
-With experienced professionals in a growth-friendly environment.
-
-### 🌍 Languages
-- English  
-- French  
-- Malagasy  
-
+# Hey! 👋🏼 I'm Manohy
 > _"I can do all things through Him who strengthens me."_ – Philippians 4:13
 
 
@@ -35,7 +11,7 @@ With experienced professionals in a growth-friendly environment.
 <div align="center">
   <p>
     Some of the fun projects I've built:
-    <a href="https://github.com/manohySr/Manohy-Fun-Project-link" target="_blank" rel="noopener noreferrer">Check here</a>
+    <a href="https://manohy.surge.sh" target="_blank" rel="noopener noreferrer">Check my portfolio here</a>
   </p>
   <a href="https://www.linkedin.com/in/manohy-saotra-rajaonah-b57ab7223" target="_blank" rel="noopener noreferrer">
     <img 
